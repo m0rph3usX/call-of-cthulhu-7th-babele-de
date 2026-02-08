@@ -39,5 +39,7 @@
   "systemVersion": "1.1.6",
   "url": "https://github.com/xmichix/call-of-cthulhu-7th-babele-de",
   "manifest": "https://github.com/m0rph3usX/call-of-cthulhu-7th-babele-de/releases/download/1.0.0/module.json",
-  "download": "https://github.com/m0rph3usX/call-of-cthulhu-7th-babele-de/releases/download/1.0.0/master.zip"
+  "download": "https://github.com/m0rph3usX/call-of-cthulhu-7th-babele-de/archive/refs/tags/V.1.0.0.zip"
+  
+  
 }
